@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/interview/MLflow_tut/mlruns/0/4c209e397d3e48b0bd9680df64a3b91d/artifacts
+end_time: 1703106908879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c209e397d3e48b0bd9680df64a3b91d
+run_name: adorable-cat-670
+run_uuid: 4c209e397d3e48b0bd9680df64a3b91d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703106901060
+status: 3
+tags: []
+user_id: Pc

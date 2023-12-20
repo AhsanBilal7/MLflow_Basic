@@ -1,6 +1,6 @@
-artifact_location: file:///d:/interview/mlruns/0
-creation_time: 1703104075834
+artifact_location: file:///d:/interview/MLflow_tut/mlruns/0
+creation_time: 1703106900730
 experiment_id: '0'
-last_update_time: 1703104075834
+last_update_time: 1703106900730
 lifecycle_stage: active
 name: Default
