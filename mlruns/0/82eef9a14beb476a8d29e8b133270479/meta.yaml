@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/interview/mlruns/0/82eef9a14beb476a8d29e8b133270479/artifacts
+end_time: 1703104083611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82eef9a14beb476a8d29e8b133270479
+run_name: beautiful-dolphin-86
+run_uuid: 82eef9a14beb476a8d29e8b133270479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703104076195
+status: 3
+tags: []
+user_id: Pc
