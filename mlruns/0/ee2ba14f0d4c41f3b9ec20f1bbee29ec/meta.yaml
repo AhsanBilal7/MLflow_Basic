@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/interview/MLflow_tut/mlruns/0/ee2ba14f0d4c41f3b9ec20f1bbee29ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee2ba14f0d4c41f3b9ec20f1bbee29ec
+run_name: nervous-skink-396
+run_uuid: ee2ba14f0d4c41f3b9ec20f1bbee29ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703108616648
+status: 1
+tags: []
+user_id: AhsanBilal7

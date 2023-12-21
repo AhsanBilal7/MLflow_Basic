@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/interview/MLflow_tut/mlruns/0/17404403911b47508564ca21619214d9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17404403911b47508564ca21619214d9
+run_name: respected-sow-767
+run_uuid: 17404403911b47508564ca21619214d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703107861069
+status: 1
+tags: []
+user_id: Pc

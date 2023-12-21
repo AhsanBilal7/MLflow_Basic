@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/interview/MLflow_tut/mlruns/0/bee5ab40f3684625a06dd6b4b425a30f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bee5ab40f3684625a06dd6b4b425a30f
+run_name: handsome-steed-874
+run_uuid: bee5ab40f3684625a06dd6b4b425a30f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703108172110
+status: 1
+tags: []
+user_id: Pc

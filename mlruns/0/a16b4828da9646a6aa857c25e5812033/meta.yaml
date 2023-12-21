@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/interview/MLflow_tut/mlruns/0/a16b4828da9646a6aa857c25e5812033/artifacts
+end_time: 1703108145182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a16b4828da9646a6aa857c25e5812033
+run_name: selective-calf-461
+run_uuid: a16b4828da9646a6aa857c25e5812033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703108145138
+status: 4
+tags: []
+user_id: Pc
